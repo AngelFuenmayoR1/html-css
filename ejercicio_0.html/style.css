@@ -1,0 +1,8 @@
+ /* Comenazamos agregando un fondo a todos los elementos*/
+ body {
+    background-image: url(purple_marble.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-color: #2d0036;;
+ }
+ 
