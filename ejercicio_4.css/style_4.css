@@ -1,0 +1,24 @@
+a{
+    color: red;
+}
+
+a:link {
+    color: orange;
+    background-color: white;
+}
+
+a:visited {
+    color: green;
+    background-color: white;
+}
+
+a:hover {
+    color: white;
+    background-color: red;
+}
+
+a:focus {
+    color: blue;
+    background-color: black;
+}
+
