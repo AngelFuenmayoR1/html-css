@@ -1,0 +1,19 @@
+.sin-estilo {
+   list-style: none;
+}
+
+.con-cuadro {
+   list-style: square;
+}
+.con-circulo {
+   list-style: circle;
+}
+
+.romano {
+   list-style:upper-roman;
+}
+
+.griegas {
+   list-style: lower-greek;
+}
+
