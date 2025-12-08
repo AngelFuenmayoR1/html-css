@@ -1,7 +1,17 @@
-li {
-   background-color: blue;
-    list-style-type: none;
+li:hover {
    color: white;
+   background-color: blue;
+   cursor: pointer;
+   border: 1px solid red;
 
 }
 
+li {
+   list-style: none;
+   color: white;
+   background-color: blue;
+   text-align: center;
+   padding: 10px;
+   margin: 5px;
+   width: 25%;
+}
