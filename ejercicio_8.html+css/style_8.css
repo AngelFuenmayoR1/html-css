@@ -1,0 +1,14 @@
+h1 {
+    border: solid ;
+    border-color: blue;
+}
+
+h2 {
+    border: solid;
+    border-color: (#AAA);
+}
+
+ul {
+    border: solid;
+    border-color: (#0f0);
+}
