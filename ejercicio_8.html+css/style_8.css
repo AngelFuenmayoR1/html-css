@@ -1,14 +1,33 @@
 h1 {
-    border: solid ;
-    border-color: blue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    border: solid 2px blue;
 }
 
 h2 {
-    border: solid;
-    border-color: (#AAA);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 2px gray;
 }
 
-ul {
-    border: solid;
-    border-color: (#0f0);
+ul{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 2px rgb(84, 240, 84);
 }
+
+li{
+    margin-bottom: 15px;
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}   
