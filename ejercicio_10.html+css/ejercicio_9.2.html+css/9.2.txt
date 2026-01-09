@@ -1,0 +1,19 @@
+clase centro 
+h1{
+UTF-IN--A single h1 
+UTF-ES--Un solo h1
+}
+
+clase izquierda
+{    id=datos}
+
+clase rigth {
+    id="principal"
+    {div
+    Esta almacenado todo 
+    }
+    id="contenido"
+    {ul 
+    lista sin organizar 
+    }
+}
